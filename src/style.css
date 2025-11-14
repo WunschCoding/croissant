@@ -4,3 +4,7 @@ body {
 h1 {
   text-align: center;
 }
+img {
+  width: 200px;
+  margin: 15 auto;
+}
